@@ -26,6 +26,10 @@ This project analyzes the Sample Superstore dataset using Microsoft Power BI to 
 
 ---
 
+## Dataset
+
+Sample Superstore Dataset
+
 ## Dashboard Highlights
 
 - Total Sales KPI
@@ -38,6 +42,15 @@ This project analyzes the Sample Superstore dataset using Microsoft Power BI to 
 - Top Selling Products
 
 ---
+
+## Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- KPI Analysis
+- Business Analytics
+- Dashboard Design
+- Power BI
 
 ## Key Insights
 
@@ -58,8 +71,14 @@ This project analyzes the Sample Superstore dataset using Microsoft Power BI to 
 
 ---
 
+## Future Enhancements
+
+- Add interactive slicers
+- Create monthly and yearly trend analysis
+- Include customer segmentation
+- Build a profit forecasting dashboard
+
 ## Files Included
 
 - Sales_Analysis_Dashboard.pbix
-- Sales_Analysis_Dashboard.pdf (if included)
 - dashboard.png
